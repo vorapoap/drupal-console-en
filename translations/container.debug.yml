@@ -15,3 +15,5 @@ messages:
     arguments: 'Arguments'
     method: 'Method'
     return: 'Return'
+errors:
+    method_not_exists: "This method doesn't exists in this service."
